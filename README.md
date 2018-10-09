@@ -5,6 +5,7 @@ A decision tree is a tree where each node represents a feature(attribute), each 
 This is a very simple implementation of it, in python, from scratch. Works for all discrete valued variables only.
 
 For example, following is a decision tree to approve or reject loans:
+
 ![](https://cdn-images-1.medium.com/max/600/1*2jnsFCe0YmRjb8EvVAo93w.gif)
 
 This example code takes this following table, containing data about whether or not people play in a given weather condition(and we wish to make a decision tree on the same data):
